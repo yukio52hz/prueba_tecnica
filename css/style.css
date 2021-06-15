@@ -1,0 +1,15 @@
+.sct-form{
+    height: 100vh;
+}
+
+
+form{
+    padding: 10px;
+    border: 1px solid #000;
+}
+label .error{
+    color: red;
+}
+input{
+    border: none;
+}
